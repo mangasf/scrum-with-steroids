@@ -1,5 +1,7 @@
-# Scrum with Steroids
+# Daily
 
-## Daily
+## Income
 
-### V.1.0
+## Outcome
+
+## Participants
