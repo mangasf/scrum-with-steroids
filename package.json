@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Documentation on the evolution of the scrum methodology in my teams.",
   "main": "index.js",
-  "base": "/scrum-with-steroids/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
