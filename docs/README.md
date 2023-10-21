@@ -12,8 +12,11 @@ features:
   details: The intention of the document is to provide information based on experiences that may be of interest to the reader's current way of working.
 - title: Agile Context
   details: The documentation is generated in an agile framework with experienced product and technology teams. Its usefulness will depend on the reader's work context..
-footer: MIT Licensed | Copyright © 2023-present Fran Mangas
 ---
+
+::: slot footer
+Apache Licensed | Copyright © 2023-present [Fran Mangas](https://www.mangasf-project.com/en/about-me/)
+:::
 
 # Daily
 
