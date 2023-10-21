@@ -4,7 +4,7 @@ heroImage: /assets/img/scrum-with-steroids.jpg
 heroText: Scrum with Steroids
 tagline: Documentation on the application of Scrum in Software construction
 actionText: Get Started →
-actionLink: /#daily
+actionLink: /ceremonies/
 features:
 - title: Personal Documentation
   details: Documentation generated from my personal experience working with software development teams on agile environments.
@@ -17,11 +17,3 @@ features:
 ::: slot footer
 Apache Licensed | Copyright © 2023-present [Fran Mangas](https://www.mangasf-project.com/en/about-me/)
 :::
-
-# Daily
-
-## Income
-
-## Outcome
-
-## Participants
