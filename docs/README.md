@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/img/scrum-with-steroids.jpeg
+heroImage: /assets/img/scrum-with-steroids.jpg
 heroText: Scrum with Steroids
 tagline: Documentation on the application of Scrum in Software construction
 actionText: Get Started →
