@@ -8,6 +8,7 @@ module.exports = {
             { text: 'Ceremonies', link: '/ceremonies/' }
         ],
         logo: '/assets/img/agile-icon.png',
-        sidebar: 'auto'
+        sidebar: 'auto',
+        searchPlaceholder: 'Search...',
     },
 }
