@@ -1,5 +1,8 @@
 module.exports = {
-    title: 'Srum wS',
+    title: 'SwS',
+    head: [
+        ['link', { rel: 'icon', href: '/assets/img/code-8x.png' }]
+    ],
     description: '',
     base: '/scrum-with-steroids/',
     themeConfig: {
